@@ -15,5 +15,5 @@ A responsive, theme-toggleable calculator built with **HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-> You can view the live version here (if deployed via GitHub Pages):
+> https://github.com/eklavyamathur9/Calculator.git
 
