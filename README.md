@@ -10,7 +10,7 @@ A responsive, theme-toggleable calculator built with **HTML, CSS, and JavaScript
 - ✅ Calculation history with auto-scroll
 - ✅ `C` to clear display, `AC` to clear history
 - ✅ Keyboard input support
-- ✅ Mobile responsive design
+- ✅ Mobile responsive design 
 - ✅ Prevents invalid inputs like `++` or `..`
 
 ## 🚀 Live Demo
